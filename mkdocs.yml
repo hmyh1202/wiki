@@ -1,13 +1,13 @@
-site_name: My Wiki Docs
+site_name: Wiki Docs of Han
 
 theme:
   name: 'material'
 
 nav:
     - Home: index.md
-    - First: ASM.md
-    - Second: clusterProfiler.md
-    - Third: CpG_island_classification.md
-    -Other1: methy_Haplo.md
-    -Other2:	PMD.md
-    -Other3: BETA.md
+    - ASM: ASM.md
+    - clusterProfile: clusterProfiler.md
+    - CpG island: CpG_island_classification.md
+    - Methylation haolo: methy_Haplo.md
+    - PMD: PMD.md
+    - BETA: BETA.md
