@@ -1,0 +1,13 @@
+site_name: My Wiki Docs
+
+theme:
+  name: 'material'
+
+nav:
+    - Home: index.md
+    - First: ASM.md
+    - Second: clusterProfiler.md
+    - Third: CpG_island_classification.md
+    -Other1: methy_Haplo.md
+    -Other2:	PMD.md
+    -Other3: BETA.md
